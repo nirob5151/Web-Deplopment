@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+}
+.king{
+    text-align: justify;
+    border: 10px solid black;
+    text-align: center;
+    border-radius: 20px;
+    /* background: aquamarine; */
+    margin: 10%;
+}
+.name{
+    background-color: rgba(247, 0, 0, 0.886);
+    /* border: 10px solid black; */
+    border-left: 20px solid green;
+    /* border-left: 20px dotted green; */
+    /* border-left: 20px dashed green; */
+}
+.nk{
+    background-color: yellow;
+    /* border: 10px solid red; */
+    border-left: 20px solid red;
+}
+.mrn{
+    background-color: rgb(18, 118, 18);
+    border-right: 20px solid rgb(255, 255, 0);
+}
