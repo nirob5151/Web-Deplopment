@@ -12,16 +12,18 @@
 .name{
     background-color: rgba(247, 0, 0, 0.886);
     /* border: 10px solid black; */
-    border-left: 20px solid green;
-    /* border-left: 20px dotted green; */
+    border-right: 20px solid green;
+    border-left: 20px dotted yellow;
     /* border-left: 20px dashed green; */
 }
 .nk{
     background-color: yellow;
     /* border: 10px solid red; */
-    border-left: 20px solid red;
+    border-right: 20px solid red;
+    border-left: 20px dotted green;
 }
 .mrn{
     background-color: rgb(18, 118, 18);
     border-right: 20px solid rgb(255, 255, 0);
+    border-left: 20px dotted red;
 }
